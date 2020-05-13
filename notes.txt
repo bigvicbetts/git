@@ -1,0 +1,4 @@
+This is some text in my notes.txt file.
+This will be edited later but I'm just
+gonna save it like this for right now.
+Lemme know how it goes.  :-)
